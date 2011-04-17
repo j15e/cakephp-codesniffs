@@ -2,6 +2,9 @@
 <ruleset name="CakePHP">
  <description>CakePHP Coding standard.</description>
 
+ <!-- Should not test Vendors libraries -->
+ <exclude-pattern>*/Vendors/*</exclude-pattern>
+
  <!-- Include some sniffs from all around the place -->
  <rule ref="Generic.PHP.DisallowShortOpenTag"/>
  <rule ref="Generic.NamingConventions.UpperCaseConstantName"/>
