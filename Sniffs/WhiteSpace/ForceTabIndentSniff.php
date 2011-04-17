@@ -1,5 +1,5 @@
 <?php
-class Cake_Sniffs_WhiteSpace_ForceTabIndentSniff extends Generic_Sniffs_WhiteSpace_DisallowTabIndentSniff
+Class Cake_PHP_Sniffs_WhiteSpace_ForceTabIndentSniff extends Generic_Sniffs_WhiteSpace_DisallowTabIndentSniff
 {
 
     /**
