@@ -1,13 +1,13 @@
 <?php
 
 /**
- * Cake_PHP_Sniffs_Files_ViewsFileNameSniff 
+ * CakePHP_Sniffs_Files_ViewsFileNameSniff 
  *
  * Checks file name, and throws warnings if it is not in
  * complaince with CakePHP file naming conventions.
  *
  */
-Class Cake_PHP_Sniffs_Files_ViewsFileNameSniff implements PHP_CodeSniffer_Sniff
+Class CakePHP_Sniffs_Files_ViewsFileNameSniff implements PHP_CodeSniffer_Sniff
 
 {
 

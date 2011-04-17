@@ -2,7 +2,7 @@
 define('GOT_CAKEPHP', `which cake`);
 
 require_once 'HasTestSniff.php';
-Class Cake_PHP_Sniffs_Files_PassesTestSniff extends Cake_PHP_Sniffs_Files_HasTestSniff {
+Class CakePHP_Sniffs_Files_PassesTestSniff extends CakePHP_Sniffs_Files_HasTestSniff {
 
 /**
  * Returns an array of tokens this test wants to listen for.

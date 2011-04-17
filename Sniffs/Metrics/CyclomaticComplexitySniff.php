@@ -30,7 +30,7 @@
  * @version   Release: 1.0.1
  * @link      http://pear.php.net/package/PHP_CodeSniffer
  */
-Class Cake_PHP_Sniffs_Metrics_CyclomaticComplexitySniff implements PHP_CodeSniffer_Sniff
+Class CakePHP_Sniffs_Metrics_CyclomaticComplexitySniff implements PHP_CodeSniffer_Sniff
 {
 
     /**

@@ -1,5 +1,5 @@
 <?php
-Class Cake_PHP_Sniffs_Files_HasTestSniff implements PHP_CodeSniffer_Sniff {
+Class CakePHP_Sniffs_Files_HasTestSniff implements PHP_CodeSniffer_Sniff {
 
 /**
  * Returns an array of tokens this test wants to listen for.
