@@ -84,5 +84,3 @@ class Cake_Sniffs_Functions_FunctionLineCountSniff implements PHP_CodeSniffer_Sn
 
 
 }//end class
-
-?>

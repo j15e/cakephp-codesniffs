@@ -120,5 +120,3 @@ class Cake_Sniffs_Metrics_CyclomaticComplexitySniff implements PHP_CodeSniffer_S
 
 
 }//end class
-
-?>

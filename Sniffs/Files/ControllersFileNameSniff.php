@@ -82,5 +82,3 @@ class Cake_Sniffs_Files_ControllersFileNameSniff implements PHP_CodeSniffer_Snif
   } 
 
 }//end class
-
-?>
