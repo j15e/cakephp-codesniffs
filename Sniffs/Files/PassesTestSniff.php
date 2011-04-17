@@ -1,5 +1,5 @@
 <?php
-define('GOT_CAKEPHP', `which cake`);
+define('GOT_CAKEPHP', `which cake 2>/dev/null`);
 
 require_once 'HasTestSniff.php';
 Class CakePHP_Sniffs_Files_PassesTestSniff extends CakePHP_Sniffs_Files_HasTestSniff {
