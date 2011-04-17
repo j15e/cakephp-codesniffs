@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ruleset name="Cake">
+<ruleset name="CakePHP">
  <description>CakePHP Coding standard.</description>
 
  <!-- Include some sniffs from all around the place -->
