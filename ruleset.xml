@@ -6,6 +6,10 @@
  <exclude-pattern>*/app/vendors/*</exclude-pattern>
  <!-- Do not test CakePHP schemas files -->
  <exclude-pattern>*/app/config/schema/*</exclude-pattern>
+ <!-- Do not test CakePHP webroot files -->
+ <exclude-pattern>*/app/webroot/index.php</exclude-pattern>
+ <exclude-pattern>*/app/webroot/css.php</exclude-pattern>
+ <exclude-pattern>*/app/webroot/test.php</exclude-pattern>
 
  <!-- Do not test specific folders for specific CakePHP tests -->
  <rule ref="CakePHP.WhiteSpace.ForceTabIndent">
